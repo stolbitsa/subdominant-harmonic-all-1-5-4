@@ -28,6 +28,11 @@ stolbitsa.com/Fistachka/subdominantC<br><br>
 We have four notes: the lower tonic, the upper tonic, the dominant, and the subdominant. 
 You must guess which two of them are sounding simultaneously.
 
+This lesson contains 12 exercises.
+In the first four exercises, the bottom note is 1.
+In the next four, it's 5.
+And in the last four, it's 4.
+
 ![](https://github.com/stolbitsa/stolbitsa/assets/149964365/5567b272-ca11-45b2-8a37-253d592d4120)
 
 Previous lesson:
