@@ -23,7 +23,7 @@ stolbitsa.com/Fistachka/subdominantC<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-# Subdominant harmonic
+# Subdominant harmonic - bottom notes are 1, 5, and 4
 
 We have four notes: the lower tonic, the upper tonic, the dominant, and the subdominant. 
 You must guess which two of them are sounding simultaneously.
