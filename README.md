@@ -10,16 +10,19 @@
 В следующих четырёх - 5.
 И еще в  четырёх - 4.
 
+Все упражнения в разных тональностях, меняющихся случайным образом.
 
 ![](https://github.com/stolbitsa/stolbitsa/assets/149964365/5567b272-ca11-45b2-8a37-253d592d4120)
 
 Предыдущий урок:
-![](https://github.com/user-attachments/assets/6633b97c-f2bf-4b5b-b70f-565686afd2dc =200x200)
+<a href="http://stolbitsa.com/stolbitsa/subdominant-harmonic-low-1-5-4"><img src="https://github.com/user-attachments/assets/6633b97c-f2bf-4b5b-b70f-565686afd2dc" alt="" width="200"></a>
 stolbitsa.com/stolbitsa/subdominant-harmonic-low-1-5-4
 
+
 Также рекомендуем пройти этот урок: 
-![Fistachka/subdominantC](https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7 =200x200)
-stolbitsa.com/Fistachka/subdominantC<br><br>
+<a href="http://stolbitsa.com/Fistachka/subdominantC"><img src="https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7" alt="" width="200"></a>
+stolbitsa.com/Fistachka/subdominantC
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -33,15 +36,23 @@ In the first four exercises, the bottom note is 1.
 In the next four, it's 5.
 And in the last four, it's 4.
 
+All exercises are in different keys, changing at random.
+
 ![](https://github.com/stolbitsa/stolbitsa/assets/149964365/5567b272-ca11-45b2-8a37-253d592d4120)
 
 Previous lesson:
-![](https://github.com/user-attachments/assets/6633b97c-f2bf-4b5b-b70f-565686afd2dc =200x200)
+<a href="http://stolbitsa.com/stolbitsa/subdominant-harmonic-low-1-5-4"><img src="https://github.com/user-attachments/assets/6633b97c-f2bf-4b5b-b70f-565686afd2dc" alt="" width="200"></a>
 stolbitsa.com/stolbitsa/subdominant-harmonic-low-1-5-4
 
 
 We also recommend taking this lesson: 
-![Fistachka/subdominantC](https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7 =200x200)
+<a href="http://stolbitsa.com/Fistachka/subdominantC"><img src="https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7" alt="" width="200"></a>
 stolbitsa.com/Fistachka/subdominantC
+
+
+
+
+
+
 <br><br>
 
